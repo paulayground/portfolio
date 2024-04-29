@@ -81,5 +81,12 @@ DevOps 및 최신 기술 트렌드에 대한 지속적인 학습을 통해 역�
 <br />
 <br />
 
+## 10. 이더리움, ERC-20, 비트코인, 파일코인 지갑앱 개발
+이더리움, ERC-20, 비트코인, 파일코인 보유현황 및 전송 기능 지갑앱 개발
+### 사용 기술 및 역할
+- ExpressJS, Sequelize를 통해 백엔드 및 데이터베이스 구축, Zabbix, Grafana를 통해 서버 상태 모니터링 기능 구축
+<br />
+<br />
+
 # Contact
 - paulayground@gmail.com
